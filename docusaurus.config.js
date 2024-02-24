@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'KANARY | POLKADOT MEMECOIN',
   tagline: '𝙏𝙝𝙚 𝙙𝙚𝙛𝙞𝙣𝙞𝙩𝙞𝙫𝙚 𝙙𝙤𝙘𝙪𝙢𝙚𝙣𝙩𝙖𝙩𝙞𝙤𝙣 𝙛𝙤𝙧 𝙩𝙝𝙤𝙨𝙚 𝙥𝙚𝙤𝙥𝙡𝙚 𝙬𝙝𝙤 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙠𝙣𝙤𝙬 𝙢𝙤𝙧𝙚 𝙖𝙗𝙤𝙪𝙩 𝙩𝙝𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://KanaryCoin.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/BALL1.svg',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'KanaryCoin', // Usually your GitHub org/user name.
+  projectName: 'KanaryCoin.github.io', // Usually your repo name.
 
   presets: [
     [
