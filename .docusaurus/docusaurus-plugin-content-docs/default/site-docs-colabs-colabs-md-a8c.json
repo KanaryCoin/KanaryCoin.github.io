@@ -1,0 +1,23 @@
+{
+  "unversionedId": "colabs/colabs",
+  "id": "colabs/colabs",
+  "isDocsHomePage": false,
+  "title": "​Alliances 🤝​",
+  "description": "Currently, the project has the following alliances active:",
+  "source": "@site/docs/colabs/colabs.md",
+  "sourceDirName": "colabs",
+  "slug": "/colabs/colabs",
+  "permalink": "/docs/colabs/colabs",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/colabs/colabs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wallet 💼​",
+    "permalink": "/docs/airdrop/wallet"
+  }
+}

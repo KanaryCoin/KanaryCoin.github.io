@@ -1,0 +1,27 @@
+{
+  "unversionedId": "equipo/about-us",
+  "id": "equipo/about-us",
+  "isDocsHomePage": false,
+  "title": "About us? 👀​",
+  "description": "These years of bear market have been tough for the Polkadot community! BUT KANARY IS HERE.",
+  "source": "@site/docs/equipo/about-us.md",
+  "sourceDirName": "equipo",
+  "slug": "/equipo/about-us",
+  "permalink": "/docs/equipo/about-us",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/equipo/about-us.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "KanaryCoin",
+    "permalink": "/docs/KanaryCoin"
+  },
+  "next": {
+    "title": "​Our Strategy 🤔​",
+    "permalink": "/docs/proyecto/strategy"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "proyecto/objectives",
+  "id": "proyecto/objectives",
+  "isDocsHomePage": false,
+  "title": "What are our objectives? 🎯​",
+  "description": "Kanary Coin doesn't just have one objective; it has several varied goals to take this project to a high level to compete against other more established memecoins in the system like Doge, Shiba, or Pepe.",
+  "source": "@site/docs/proyecto/objectives.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/objectives",
+  "permalink": "/docs/proyecto/objectives",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/proyecto/objectives.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "​Our Strategy 🤔​",
+    "permalink": "/docs/proyecto/strategy"
+  },
+  "next": {
+    "title": "Join the Team 🫂​",
+    "permalink": "/docs/proyecto/join-the-team"
+  }
+}

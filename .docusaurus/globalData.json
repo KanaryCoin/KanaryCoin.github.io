@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "KanaryCoin",
+          "docs": [
+            {
+              "id": "airdrop/metodos",
+              "path": "/docs/airdrop/metodos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "airdrop/wallet",
+              "path": "/docs/airdrop/wallet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "colabs/colabs",
+              "path": "/docs/colabs/colabs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "equipo/about-us",
+              "path": "/docs/equipo/about-us",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "KanaryCoin",
+              "path": "/docs/KanaryCoin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proyecto/join-the-team",
+              "path": "/docs/proyecto/join-the-team",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proyecto/objectives",
+              "path": "/docs/proyecto/objectives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proyecto/strategy",
+              "path": "/docs/proyecto/strategy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tokenomics",
+              "path": "/docs/Tokenomics",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

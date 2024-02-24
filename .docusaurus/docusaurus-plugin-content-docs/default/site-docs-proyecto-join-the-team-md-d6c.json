@@ -1,0 +1,27 @@
+{
+  "unversionedId": "proyecto/join-the-team",
+  "id": "proyecto/join-the-team",
+  "isDocsHomePage": false,
+  "title": "Join the Team 🫂​",
+  "description": "We want you to be part of the team through the ambassador system. This system will provide users with rewards that will vary according to their activity and decisions within the team. This will benefit the Kanary ecosystem itself by increasing activity on networks and order within the ecosystem.",
+  "source": "@site/docs/proyecto/join-the-team.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/join-the-team",
+  "permalink": "/docs/proyecto/join-the-team",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/proyecto/join-the-team.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What are our objectives? 🎯​",
+    "permalink": "/docs/proyecto/objectives"
+  },
+  "next": {
+    "title": "Tokenomics",
+    "permalink": "/docs/Tokenomics"
+  }
+}

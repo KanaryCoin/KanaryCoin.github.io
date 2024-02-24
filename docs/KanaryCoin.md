@@ -12,7 +12,7 @@ Kanary has a primary mission: to build bridges between different communities and
 
 - [Information about the Kanary team 👨‍💻​​](./equipo/about-us.md)
 
-- [Information about the Project 📅​](./proyecto/objetives.md)
+- [Information about the Project 📅​](./proyecto/objectives.md)
 
 - [Information on how to become part of the team 🫵​](./proyecto/join-the-team.md)
 
